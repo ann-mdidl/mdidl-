@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1778184166050
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1778259904631
+  login: 1778259886633
+money: '7814.5199999999990001'
+last-account-name: LordSapnerd
+lastlocation:
+  world: dac8053b-c7c1-4eca-968d-3979da363a1a
+  world-name: Plots
+  x: -235.77073177711284
+  y: 65.0
+  z: 146.4216537798005
+  yaw: -63.90069580078125
+  pitch: 12.449984550476074
+nickname: Sap
+logoutlocation:
+  world: dac8053b-c7c1-4eca-968d-3979da363a1a
+  world-name: Plots
+  x: -118.47899474268576
+  y: 65.0
+  z: 114.26998735280839
+  yaw: 16.4996337890625
+  pitch: 31.500009536743164

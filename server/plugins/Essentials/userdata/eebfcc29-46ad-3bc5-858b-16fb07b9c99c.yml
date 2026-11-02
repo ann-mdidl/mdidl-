@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766006812486
+  login: 1766006791689
+money: '0'
+last-account-name: Lucifer_
+logoutlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -12.005572901048309
+  y: 70.0
+  z: -13.650218940473266
+  yaw: 0.0
+  pitch: 0.0
+mail:
+- legacy: false
+  read: false
+  message: §a§lWelcome!§7 to §d§lVoiders§8§m-§5§lSMP§e!§7 to start, please enter a
+    portal!
+  sender-name: Jmo_fr
+  sender-uuid: b03095a3-33ff-3c52-a7a7-104e93b1c3da
+  timestamp: 1778122105625
+  expire: 0
